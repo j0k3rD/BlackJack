@@ -1,2 +1,0 @@
-i.show() no printea. Solo manda un return.
-la otra funcion es un string, que une cada fila de las dos cartas y con un \n las va poniendo una bajo la otra.
